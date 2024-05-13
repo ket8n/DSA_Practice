@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/contains-duplicate/description/
+
 // approach 1 [Better/optimal soln] : simply sort the original array [or first create a duplicate array to 
 // preverse the original array and then sort the duplicate array] and check if adjacent nums are equal or not.
 // TC : O(nlogn), SC : O(1)
